@@ -6,8 +6,8 @@ const manifestForPlugin = {
 	registerType: "prompt",
 	includeAssets: ["favicon.ico", "apple-touch-icon.png", "masked-icon.svg"],
 	manifest: {
-		name: "Poomi",
-		short_name: "🌸 me",
+		name: "🌸 me",
+		short_name: "me",
 		description: "An app for poomi to take attendance.",
 		icons: [
       {
